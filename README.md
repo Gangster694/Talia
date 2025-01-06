@@ -1,2 +1,3 @@
-# Talia
+antiban
+antibirw# Talia
 Whatsapp bot
